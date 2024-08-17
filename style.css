@@ -1,0 +1,444 @@
+.main-team{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: white;
+    display: flex;
+ }
+ .team{
+    margin-left: 30px;
+    margin-top: 30px;
+ }
+ ul,li{
+    display: inline-flex;
+    margin-top: 30px;
+    gap: 20px;
+    color: white;
+ }
+ a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+ }
+ .ul,li a:hover{
+  color: #f76d37;
+ }
+ .team-a{
+    margin-left: 40%;
+    margin-top: -20px;
+ }
+ .lii{
+      color: #d63b25;
+ }
+ .team-33{
+    text-align: center;
+    color: #f76d37;
+    margin-top: 150px;
+    margin-left: 30px;
+    font-size: 40px;
+ }
+ .team-b{
+    background-image: url(banner-bg.png);
+    background-repeat: no-repeat;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+ }
+ .big{
+    margin-top: 50px;
+    color: #fff;
+ }
+ .team-c{
+    margin-left: 100px;
+    margin-top: 60px;
+    font-size: 50px;
+    color: black;
+ }
+ .team-d{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: -40px;
+    color: white;
+ }
+ .team-e{
+    margin-left: 100px;
+    color: white;
+ }
+ .team-f{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-left: 100px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+ }
+ .team-f:hover{
+    background-color:#f76d37;
+ }
+ .kk{
+   color: black;
+   font-size: 20px;
+ }
+ .team-g{
+    margin-top: 40px;
+    margin-left: 40%;
+ }
+ .team-h{
+    padding: 15px;
+    height: 40px;
+    width: 50px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+ }
+ .team-h:hover{
+    background-color: #f76d37;
+ }
+ .team-i{
+    display: flex;
+    margin-top: 150px;
+ }
+ .aa{
+    color: #f76d37;
+ }
+ img{
+    width: 500px;
+    height: 450px;
+    margin-left: 50px;
+    margin-top: -50px;
+ }
+ .team-j{
+    margin-left: 100px;
+ }
+ .team-k{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin-top: 10px;
+    width: 120px;
+ }
+ .team-k:hover{
+    background-color: #f76d37;
+    cursor: pointer;
+ }
+ .team-l{
+    text-align: center;
+    margin-top: 70px;
+ }
+ .team-m{
+    color: #f76d37;
+    font-size: 40px;
+ }
+ .team-o{
+    display: flex;
+    margin-left: 150px;
+
+ }
+ .img1{
+    width: 350px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 20px;
+    transition: transform 5s;
+ }
+ .team-n:hover{
+   opacity: 0.7;
+   transform: scale(1.1);
+
+ }
+ .img3:hover{
+    background-color: rgba(207, 197, 197, 0.1);
+    cursor: pointer;
+    
+ }
+ .img2{
+    width: 350px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 50px;
+ }
+ .img3{
+    width: 350px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 50px;
+ }
+ .backg{
+    background-image: url(services-bg.png);
+    height: 500px;
+    background-attachment: fixed;
+    margin-top: 150px;
+    padding: 40px;
+    color: white;
+    text-align: center;
+ }
+ .middle{
+   font-size: 50px;
+ }
+ .middle1{
+   display: flex;
+   gap: 70px;
+   margin-left: 130px;
+   margin-top: 50px;
+ }
+ .dami{
+   height: 50px;
+   width: 100px;
+   margin-left: 50px;
+ }
+ .middle3{
+   background-color: #f76d37;
+   color: white;
+   height: 230px;
+   width: 350px;
+   padding: 20px;
+   text-align: center;
+   transition: transfom 0.8s;
+ }
+ .middle3:hover{
+   height: 250px;
+   width: 300px;
+   background-color: white;
+   color: black;
+ }
+ .kenny{
+   font-size: 20px;
+ }
+ .hidden{
+   opacity: 0;
+ }
+ .hidden:hover{
+   opacity: 1;
+   background-color: #252525;
+   color: white;
+   text-align: center;
+   height: 20px;
+   width: 100px;
+   padding: 10px;
+   border: none;
+   transition: transform 0.2;
+   margin: auto;
+   margin-top: 10px;
+ }
+ .colver{
+   text-decoration: none;
+   color: white;
+ }
+ .team-p{
+    display: flex;
+ }
+ .dami{
+   height: 40px;
+   width: 50px;
+   margin-top: 50px;
+ }
+ .m{
+  background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin-top: 30px;
+    width: 120px;
+    margin-left: 45%;
+ }
+ .m:hover{
+  background-color: #f76d37;
+ }
+ .team-mm{
+    color: black;
+ }
+ .team-t{
+  margin-left: 150px;
+  margin-top: 70px;
+ }
+ .team-u{
+  color: #f76d37;
+  font-size: 40px;
+ }
+ .team-z{
+  margin-top: -20px;
+  color: black;
+  font-size: 20px;
+ }
+ .team-1{
+  display: flex;
+  color: #f76d37;
+  margin-top: 30px;
+ }
+ .web{
+  width: 20px;
+  height: 15px;
+  /* margin-top: 1px; */
+  margin-left: 20px;
+  margin-top: 1px;
+ }
+ .h{
+  margin-left: 180px;
+  margin-top: -3px;
+ }
+ .man{
+  display: flex;
+  margin-left: 80px;
+ }
+ .first{
+  width: 70px;
+  height: 150px;
+  border-top: 3px solid #252525;
+  border-left: 3px solid #252525;
+  left: 100px;
+  margin-left:70px;
+  margin-top: -30px;
+       }
+     .second{
+     width: 70px;
+     height: 150px;
+     border-bottom: 3px solid #252525;
+     border-right: 3px solid #252525;
+     right: 100px;
+     margin-left: -35px;
+     margin-top: -30px;
+    }
+    .p{
+      font-size: 15px;
+      /* margin-top: -5px; */
+    }
+    .team-2{
+     display: flex;
+     margin-right: 30px;
+     color: #f76d37;
+     margin-left: 70px;
+    }
+    .woman{
+     display: inline;
+     margin-left: 45%;
+     margin-top: 40px;
+    }
+    .d{
+     width: 50px;
+     height: 18px;
+     margin-top: 60px;
+     border: none;
+     border-radius:70px;
+     background-color: #f76d37;
+    }
+    .t{
+     width: 50px;
+     height: 18px;
+     border: none;
+     border-radius:70px;
+     background-color:black
+    }
+    .teams{
+     display: flex;
+     margin-top: 200px;
+     background-image: url(aa.png);
+     width: 600px;
+     height: 550px;
+    }
+    .team-3{
+     display: flex;
+     margin-left: 60px;
+     margin-top: -150px;
+    }
+    .map{
+     margin-top: 200px;
+     height: 550px;
+     width: 600px;
+    }
+    form{
+     margin: auto;
+    }
+    input[type=text]{
+     height: 60px;
+     margin: 20px;
+     display: block;
+     width: 500px;
+     border: none;
+     border-radius: 40px;
+     font-size: 20px;
+     text-align: left;
+     padding: 15px;
+    }
+    input[type=message]{
+     height: 120px;
+     width: 550px;
+     border-radius: 40px;
+     border: none;
+     margin-left: 20px;
+     font-size: 20px;
+     
+    }
+    ::placeholder{
+     margin-left: 10px;
+    }
+    .phone{
+     background-color:black;
+     padding: 20px;
+     height: 300px;
+     display: flex;
+     gap: 40px;
+     background-position: center;
+    }
+    .max{
+     color: white;
+     margin-left: 50px;
+     margin-top: 50px;
+    }
+    .bag{
+     display: table-row;
+     margin-top: 5%;
+    }
+    .school{
+     margin-top: 50px;
+     margin-left: 30px;
+    }
+    .pure{
+     color: white;
+     margin-top: 45px;
+     margin-left: 200px;
+    }
+    .dj{
+     color: white;
+    }
+    .cap{
+     display: table-row;
+    }
+    .lap{
+     color: white;
+     margin-top: 60px;
+     margin-left: 30px;
+    }
+    .edit{
+     color: white;
+    }
+    .mess{
+     text-align: center;
+     color: black;
+    }
+    span{
+     color: blue;
+    }
+    .online{
+     color: black;
+    }
+    .rat{
+     margin-left: 220px;
+     margin-top: 10px;
+     background-color: #d63b25;
+     border-radius: 20px;
+     width: 150px;
+     height: 50px;
+     color: white;
+     border: none;
+    }
+    .rat:hover{
+     background-color: white;
+     color: black;
+    }
+    .cap:hover{
+      color: #f76d37;
+      cursor: pointer;
+    }
